@@ -4,8 +4,7 @@ github-heatmap
 retrying
 pendulum
 python-dotenv
-html2notion
-markdownify
 mistletoe
-md2notion
+markdownify
 html2text
+
